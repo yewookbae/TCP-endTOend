@@ -19,3 +19,5 @@ Client.py
 - For the client enter the the servers IPV4 IP
 - Then will prompt you to enter port number again this number should be the same number you entered for the server.
 Client will Prompt you to enter number of the query you want. (Enter 1, 2, 3, or exit to Quit)
+
+Recommend users to run server then client.
