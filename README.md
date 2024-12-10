@@ -1,6 +1,7 @@
 # TCP-endTOend
 A full end to end network
-
+Prject by: Christian Bae & Fabian Ochoa
+Group 1
 Server.py
 - To run the Server python file, python and pymongo must be installed on your device
 - You want to open Terminal or Command Prompt and type
